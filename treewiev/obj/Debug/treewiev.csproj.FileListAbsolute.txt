@@ -1,0 +1,14 @@
+C:\Users\student.LAN\Desktop\treewiev\treewiev\bin\Debug\treewiev.exe.config
+C:\Users\student.LAN\Desktop\treewiev\treewiev\bin\Debug\treewiev.exe
+C:\Users\student.LAN\Desktop\treewiev\treewiev\bin\Debug\treewiev.pdb
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.csprojResolveAssemblyReference.cache
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\MainWindow.g.cs
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\App.g.cs
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev_MarkupCompile.cache
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev_MarkupCompile.lref
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\MainWindow.baml
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.g.resources
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.Properties.Resources.resources
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.csproj.GenerateResource.Cache
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.exe
+C:\Users\student.LAN\Desktop\treewiev\treewiev\obj\Debug\treewiev.pdb

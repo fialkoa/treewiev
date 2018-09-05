@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  
+  <item id="100" name ="Deen 1" icon ="imgs/4.png">
+    <item id ="101" name="Employee 1" icon="imgs/5.png"/>
+    <item id ="102" name="Employee 2" icon="imgs/5.png"/>
+    <item id ="103" name="Employee 3" icon="imgs/5.png"/>
+  </item>
+  
+  <item id="200" name ="Deen 2" icon ="imgs/4.png">
+    <item id ="201" name="Employee 4" icon="imgs/6.png"/>
+    <item id ="202" name="Employee 5" icon="imgs/6.png"/>
+    <item id ="203" name="Employee 6" icon="imgs/6.png"/>
+  </item>
+    
+  <item id="300" name ="Deen 3" icon ="imgs/4.png">
+    <item id ="301" name="Employee 7" icon="imgs/7.png"/>
+    <item id ="302" name="Employee 8" icon="imgs/7.png"/>
+    <item id ="303" name="Employee 9" icon="imgs/7.png"/>
+  </item>
+
+</root>
